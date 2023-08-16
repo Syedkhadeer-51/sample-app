@@ -1,0 +1,17 @@
+{
+  "name": "browser_streaming_service",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "ffmpeg-static": "^4.4.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "pdf-image": "^2.0.0",
+    "pdf2png": "^1.0.5",
+    "puppeteer": "^12.0.0"
+  }
+}
